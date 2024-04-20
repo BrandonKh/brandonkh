@@ -66,8 +66,7 @@ One of my ongoing projects reflects my deep enthusiasm for basketball. Combining
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin: 5px;"/>
     </a>
 </div>
-
-- 🔭 I’m currently working on this page. 
+ 
 
 
 
