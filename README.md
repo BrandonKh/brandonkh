@@ -1,6 +1,9 @@
 ![I am a FullStack Developer](https://github.com/BrandonKh/brandonkh/blob/main/banner.png)
 
-Gained substantial web development experience through a range of independent projects, along with a proven aptitude for collaborative engagement within a team environment. Committed to fostering a positive workplace environment that drives project success. I am a huge basketball enthousiaste and I am currently creating my own website & application for it.
+With a passion for coding and a love for creating practical tools, I have amassed substantial experience in web development through a series of independent projects. My journey in coding is driven by a desire to craft solutions that make my everyday tasks easier. 
+
+One of my ongoing projects reflects my deep enthusiasm for basketball. Combining my passion for the sport with my coding skills, I am currently developing a comprehensive website and application dedicated to basketball enthusiasts. This project not only allows me to indulge in my love for the game but also serves as a platform where fellow fans can gather, share insights, and engage in discussions.
+
 
 
 <h3 align="left">Languages and Tools:</h3>
